@@ -5,7 +5,7 @@
 
 - 🎮 Take a look at my take on the classic **Breakout Game**
 
-- 🚀 I'm working on a Django ** synthesizer E-commerce store**
+- 🚀 I'm working on a Django **synthesizer E-commerce store**
 
 - 📚 I’m currently learning **Python and Django**
 
