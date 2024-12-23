@@ -1,9 +1,13 @@
 <h1 align="center">Hello, I’m Jacob 👋</h1>
 <h3 align="center">A backend developer from Poland with a passion for coding 💻</h3>
 
-- 🚀 I'm working on **a synthesizer E-commerce store**
+- ✅ Check out my Flask **To-Do List Website**
 
-- 📚 I’m currently learning **Python, Django, Flask and Javascript**
+- 🎮 Take a look at my take on the classic **Breakout Game**
+
+- 🚀 I'm working on a Django ** synthesizer E-commerce store**
+
+- 📚 I’m currently learning **Python and Django**
 
 - 🎺 Also interested in **instruments and music technology**
 
