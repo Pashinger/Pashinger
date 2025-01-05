@@ -3,7 +3,7 @@
 
 - ✅ Check out my Flask **To-Do List Website**
 
-- 🎮 Have a look at my take on the classic **Breakout Game**
+- 🎮 Have a look at my take on the classic <a href="https://github.com/Pashinger/Breakout-game-clone" target="blank">**Breakout Game**</a> 
 
 - 🚀 I'm now working on a Django **synthesizer E-commerce store**
 
