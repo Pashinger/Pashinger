@@ -3,9 +3,9 @@
 
 - ✅ Check out my Flask **To-Do List Website**
 
-- 🎮 Take a look at my take on the classic **Breakout Game**
+- 🎮 Have a look at my take on the classic **Breakout Game**
 
-- 🚀 I'm working on a Django **synthesizer E-commerce store**
+- 🚀 I'm now working on a Django **synthesizer E-commerce store**
 
 - 📚 I’m currently learning **Python and Django**
 
