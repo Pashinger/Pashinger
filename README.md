@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I’m Jacob 👋</h1>
 <h3 align="center">A backend developer from Poland with a passion for coding 💻</h3>
 
-- ✅ Check out my Flask **To-Do List Website**
+- ✅ Check out my Flask <a href="https://create-your-own-to-do-list-app-bb65387bda14.herokuapp.com/" target="blank">**To-Do List Website**</a>
 
 - 🎮 Have a look at my take on the classic <a href="https://github.com/Pashinger/Breakout-game-clone" target="blank">**Breakout Game**</a> 
 
 - 🚀 I'm now working on a Django **synthesizer E-commerce store**
 
-- 📚 I’m currently learning **Python and Django**
+- 📚 I’m currently learning **Django**
 
 - 🎺 Also interested in **instruments and music technology**
 
